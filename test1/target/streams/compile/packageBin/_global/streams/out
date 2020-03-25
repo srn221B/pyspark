@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/shimoyamamizuki/Desktop/work/Programing/pyspark/test1/target/scala-2.11/test1_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BasicWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shimoyamamizuki/Desktop/work/Programing/pyspark/test1/target/scala-2.11/classes/BasicWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BasicWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shimoyamamizuki/Desktop/work/Programing/pyspark/test1/target/scala-2.11/classes/BasicWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BasicWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shimoyamamizuki/Desktop/work/Programing/pyspark/test1/target/scala-2.11/classes/BasicWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BasicWordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shimoyamamizuki/Desktop/work/Programing/pyspark/test1/target/scala-2.11/classes/BasicWordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BasicWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shimoyamamizuki/Desktop/work/Programing/pyspark/test1/target/scala-2.11/classes/BasicWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shimoyamamizuki/Desktop/work/Programing/pyspark/test1/target/scala-2.11/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
